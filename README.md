@@ -13,7 +13,8 @@ src="https://komarev.com/ghpvc/?username=Zuhaib-Hanfi&color=blue" align="right">
     
      <a href="https://x.com/ZuhaibHanfi" target="_blank">
          <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile">
-     </a>   [![Gmail](https://img.shields.io/badge/Gmail-hanfizuhaib@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanfizuhaib@gmail.com)
+     </a> 
+[![Gmail](https://img.shields.io/badge/Gmail-hanfizuhaib@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanfizuhaib@gmail.com)
      
 
   
