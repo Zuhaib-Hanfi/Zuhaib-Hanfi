@@ -9,7 +9,8 @@ src="https://komarev.com/ghpvc/?username=Zuhaib-Hanfi&color=blue" align="right">
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an *Engineering* Student
 - 🧑🏻‍💻 GFG Profile: https://www.geeksforgeeks.org/user/hanfi/
-- <a href="https://x.com/ZuhaibHanfi" target="_blank">
+  
+ <a href="https://x.com/ZuhaibHanfi" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile">
 </a>
 
