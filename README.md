@@ -9,6 +9,8 @@
 - 🧑🏻‍💻 GFG Profile: https://www.geeksforgeeks.org/user/hanfi/
 
   <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-Hanfi&show_icons=true&theme=radical" align="right">
+  
+  <img src="https://komarev.com/ghpvc/?username=Zuhaib-Hanfi&color=blue" align="left">
 
 
 
