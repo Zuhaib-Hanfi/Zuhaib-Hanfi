@@ -5,7 +5,7 @@
 src="https://komarev.com/ghpvc/?username=Zuhaib-Hanfi&color=blue" align="right">
 - 🌱 I’m currently learning **Full Stack WebDevelopment**
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me:  [![Gmail](https://img.shields.io/badge/Gmail-hanfizuhaib@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanfizuhaib@gmail.com)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-hanfizuhaib@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanfizuhaib@gmail.com)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an *Engineering* Student
