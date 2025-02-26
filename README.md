@@ -7,6 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an *Engineering* Student
 - 🧑🏻‍💻 GFG Profile: https://www.geeksforgeeks.org/user/hanfi/
+- 📊 GitHub Stats:
+![Zuhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhaib-Hanfi&show_icons=true&theme=radical)
+
 
 
 
