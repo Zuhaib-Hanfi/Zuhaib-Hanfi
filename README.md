@@ -12,8 +12,19 @@
 - 🎯 Goals: Freelance in web dev, contribute to open-source, and land a software engineering role after graduation  
 - 🧑🏻‍💻 GFG Profile: [My GeeksforGeeks](https://www.geeksforgeeks.org/user/hanfi/)  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-Hanfi&show_icons=true&theme=radical" align="right">  
-    
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-Hanfi&show_icons=true&theme=radical" align="right">  
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zuhaib-Hanfi&theme=dark&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-Hanfi&layout=compact&title_color=33f720&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8" alt="Languages">
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo&center=true&vCenter=true&lines=Keep+building+your+hardware!;Development+is+cool+isn't+it;Stay+curious+and+creative!" alt="Typing SVG"/>
+</p>
 <a href="https://x.com/ZuhaibHanfi" target="_blank">
   <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile">
 </a>  
