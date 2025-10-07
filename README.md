@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo&center=true&vCenter=true&lines=Keep+building+your+hardware!;Development+is+cool+isn't+it?;Stay+curious+and+creative!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo&center=true&vCenter=true&lines=Keep+building+!;Development+is+cool+isn't+it?;Stay+curious+and+creative!" alt="Typing SVG" />
 </p>
 
 ---
