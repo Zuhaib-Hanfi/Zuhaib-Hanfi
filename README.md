@@ -33,7 +33,7 @@ StrikeUI – Reusable React UI component library
 
 Swiggy Clone – Created a Swiggy Live API Clone using React
 
-🌐 Portfolio: https://zuhaibhanfi.vercel.app
+🌐 Portfolio: https://zuhaibhanfi.in
 
 📊 GitHub
 <div> <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-Hanfi&show_icons=true&theme=default" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Zuhaib-Hanfi&theme=default" height="150"/> </div>
